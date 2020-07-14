@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>environment.net.core</id>
+    <version>1.0.0</version>
+    <authors>Ömer Faruk Şahin</authors>
+    <owners>Ömer Faruk Şahin</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <repository url="https://github.com/RichWarrior/environment-net-core" />
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Microsoft.AspNetCore.Mvc.NewtonsoftJson" version="3.1.5" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration" version="3.1.5" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Abstractions" version="3.1.5" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.1">
+        <frameworkReference name="Microsoft.AspNetCore.App" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\Ömer Faruk\Desktop\environment-net-core\src\environment.net.core\bin\Debug\netcoreapp3.1\environment.net.core.dll" target="lib\netcoreapp3.1\environment.net.core.dll" />
+  </files>
+</package>

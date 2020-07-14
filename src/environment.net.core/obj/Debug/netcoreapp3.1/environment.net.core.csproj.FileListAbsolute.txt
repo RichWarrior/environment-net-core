@@ -1,0 +1,9 @@
+C:\Users\Ömer Faruk\Desktop\environment-net-core\src\environment.net.core\bin\Debug\netcoreapp3.1\environment.net.core.deps.json
+C:\Users\Ömer Faruk\Desktop\environment-net-core\src\environment.net.core\bin\Debug\netcoreapp3.1\environment.net.core.dll
+C:\Users\Ömer Faruk\Desktop\environment-net-core\src\environment.net.core\obj\Debug\netcoreapp3.1\environment.net.core.csprojAssemblyReference.cache
+C:\Users\Ömer Faruk\Desktop\environment-net-core\src\environment.net.core\obj\Debug\netcoreapp3.1\environment.net.core.AssemblyInfoInputs.cache
+C:\Users\Ömer Faruk\Desktop\environment-net-core\src\environment.net.core\obj\Debug\netcoreapp3.1\environment.net.core.AssemblyInfo.cs
+C:\Users\Ömer Faruk\Desktop\environment-net-core\src\environment.net.core\bin\Debug\netcoreapp3.1\environment.net.core.pdb
+C:\Users\Ömer Faruk\Desktop\environment-net-core\src\environment.net.core\obj\Debug\netcoreapp3.1\environment.net.core.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Faruk\Desktop\environment-net-core\src\environment.net.core\obj\Debug\netcoreapp3.1\environment.net.core.dll
+C:\Users\Ömer Faruk\Desktop\environment-net-core\src\environment.net.core\obj\Debug\netcoreapp3.1\environment.net.core.pdb

@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "environment.sample": {
+      "commandName": "Project"
+    }
+  }
+}
