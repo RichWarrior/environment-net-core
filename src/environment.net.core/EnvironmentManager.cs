@@ -11,14 +11,17 @@ namespace environment.net.core
         {
             GetEnvironment();
         }
-
+        private static object _lock = new object();
         public static EnvironmentManager Instance
         {
             get
             {
-                if (_environmentManager == null)
-                    _environmentManager = new EnvironmentManager();
-                return _environmentManager;
+                lock (_lock)
+                {
+                    if (_environmentManager == null)
+                        _environmentManager = new EnvironmentManager();
+                    return _environmentManager;
+                }                
             }
         }
 
